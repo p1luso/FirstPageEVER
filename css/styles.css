@@ -154,26 +154,39 @@ footer {
     width: 10vh;
     padding: 10px; }
 
-.text-sobremi {
-  display: block;
+.grid-sobremi {
+  display: grid;
+  grid-template-columns: auto auto;
   justify-content: center;
-  align-items: center;
-  text-align: justify;
-  margin-top: 40px; }
+  text-align: center;
+  margin-top: 40px;
+  width: 100%; }
+  .grid-sobremi .sobremi1 {
+    margin-top: 50px;
+    box-sizing: content-box;
+    font-size: small;
+    text-align: justify;
+    margin-bottom: 60px;
+    padding: 10px;
+    border: 2px solid white; }
+  .grid-sobremi .h31 {
+    grid-column: 2;
+    grid-row: -1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; }
+  .grid-sobremi .h32 {
+    grid-column: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
 
 h3 {
   text-align: center;
   font-size: x-large;
   font-style: italic;
   text-decoration: underline; }
-
-.text-sobremi1 {
-  margin-top: 50px;
-  box-sizing: content-box;
-  font-size: small;
-  text-align: justify;
-  margin-bottom: 60px;
-  padding: 10px; }
 
 form {
   width: 450px;
