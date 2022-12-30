@@ -148,6 +148,8 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center; }
+  .logos li {
+    list-style-type: none; }
   .logos img {
     width: 10vh;
     padding: 10px; }

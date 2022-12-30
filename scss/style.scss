@@ -177,6 +177,7 @@ footer {
         font-size: large;
         text-decoration: solid;
         text-decoration-line: underline;
+        
     }
 
     .footer-line {
@@ -189,6 +190,10 @@ footer {
     justify-content: center;
     align-items: center;
 
+        li{
+        list-style-type: none;
+    }
+    
     img {
         width: 10vh;
         padding: 10px;
