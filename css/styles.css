@@ -505,7 +505,9 @@ textarea {
       padding: 0;
       animation: slide 20s infinite alternate ease-in-out;
       display: flex;
-      width: 500%; } }
+      width: 500%; }
+  .grid-sobremi {
+    display: block; } }
 
 @media screen and (min-width: 1321px) and (max-width: 1600px) {
   .imagens img {
