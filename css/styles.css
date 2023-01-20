@@ -40,6 +40,13 @@ header {
   justify-content: center;
   align-items: center; }
 
+.textoIndex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+  text-decoration: underline; }
+
 body {
   height: 100%;
   width: 100%;
