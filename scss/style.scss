@@ -63,6 +63,7 @@ header {
     align-items: center;
     margin-top: 40px;
     text-decoration: underline;
+    color:$color1;
 }
 
 body {
@@ -465,10 +466,6 @@ h5{
         padding-top: 37px;
         top: -100%;
 
-        a :hover{
-             cursor:pointer;
-        }
-
         &:hover {
             >.nav__li-container {
                 top: 30px;
@@ -858,6 +855,7 @@ h5{
         height: 4, 5vh;
         font-size: small;
         text-align: center;
+        color: $color1;
     }
 
     .nav__li-container {
@@ -931,6 +929,7 @@ h5{
         font-size: small;
         margin-left: -12px;
         text-align: center;
+        color:$color1;
     }
 
     .nav__li-container {
@@ -1147,6 +1146,7 @@ h5{
         padding-top: 37px;
         top: -100%;
 
+
         &:hover {
             >.nav__li-container {
                 top: 30px;
@@ -1177,6 +1177,7 @@ h5{
         height: 4, 5vh;
         font-size: small;
         text-align: center;
+        color: $color1;
     }
 
     .nav__li-container {
@@ -1248,6 +1249,7 @@ h5{
         font-size: small;
         margin-left: -12px;
         text-align: center;
+        color: $color1;
     }
 
     .nav__li-container {

@@ -45,7 +45,8 @@ header {
   justify-content: center;
   align-items: center;
   margin-top: 40px;
-  text-decoration: underline; }
+  text-decoration: underline;
+  color: white; }
 
 body {
   height: 100%;
@@ -362,8 +363,6 @@ h5 {
     margin-top: 37px;
     padding-top: 37px;
     top: -100%; }
-    .nav_responsive-ul a :hover {
-      cursor: pointer; }
     .nav_responsive-ul:hover > .nav__li-container {
       top: 30px; }
   .nav__responsive-li {
@@ -614,7 +613,8 @@ h5 {
     text-transform: capitalize;
     height: 4, 5vh;
     font-size: small;
-    text-align: center; }
+    text-align: center;
+    color: white; }
   .nav__li-container {
     position: absolute;
     top: -1000px; }
@@ -666,7 +666,8 @@ h5 {
     height: 4, 5vh;
     font-size: small;
     margin-left: -12px;
-    text-align: center; }
+    text-align: center;
+    color: white; }
   .nav__li-container {
     position: absolute;
     top: -1000px;
@@ -817,7 +818,8 @@ h5 {
     text-transform: capitalize;
     height: 4, 5vh;
     font-size: small;
-    text-align: center; }
+    text-align: center;
+    color: white; }
   .nav__li-container {
     position: absolute;
     top: -1000px; }
@@ -869,7 +871,8 @@ h5 {
     height: 4, 5vh;
     font-size: small;
     margin-left: -12px;
-    text-align: center; }
+    text-align: center;
+    color: white; }
   .nav__li-container {
     position: absolute;
     top: -1000px;
