@@ -46,6 +46,7 @@ header {
   align-items: center;
   margin-top: 40px;
   text-decoration: underline;
+  font-size: xx-large;
   color: white; }
 
 body {
@@ -129,7 +130,8 @@ a {
   justify-content: center;
   align-items: center;
   font-weight: bold;
-  text-decoration: underline; }
+  text-decoration: underline;
+  color: white; }
 
 .footer-line {
   color: white;
