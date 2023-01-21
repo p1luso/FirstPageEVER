@@ -353,6 +353,12 @@ h5 {
   display: none; }
 
 @media screen and (max-width: 967px) {
+  .textoIndex {
+    font-size: x-large;
+    text-justify: center;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
   form {
     width: 100%; }
   .menu-fullscreen {
