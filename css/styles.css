@@ -492,7 +492,6 @@ h5 {
   .videos {
     display: none; }
   .img_responsive-fotos-ul1 {
-    display: none;
     display: block;
     overflow: hidden;
     margin: 20px auto 0;
@@ -505,7 +504,6 @@ h5 {
       width: 100%;
       height: 100%; }
     .img_responsive-fotos-ul1 li {
-      list-style-type: none;
       list-style-type: none; }
     .img_responsive-fotos-ul1 ul {
       padding: 0;
@@ -520,13 +518,9 @@ h5 {
     margin: 70px auto 0;
     margin-left: -20px;
     width: 100%;
-    width: 100%;
     height: 100%;
-    display: block;
-    overflow: hidden;
     margin: 70px auto 0;
-    margin-left: -20px;
-    width: 100%; }
+    margin-left: -20px; }
     .img_responsive-fotos-ul img {
       width: 100%;
       height: 100%; }
